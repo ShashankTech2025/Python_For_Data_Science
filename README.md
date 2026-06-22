@@ -1,2 +1,20 @@
-# Python_For_Data_Science
-🚀 Daily Python practice for Data Science and AI. This repository documents my learning journey from Python fundamentals to advanced Data Science concepts including NumPy, Pandas, Statistics, Data Visualization, Machine Learning, and real-world projects. One Python program uploaded every day.
+# 100 Days of Python for Data Science
+
+Hi, I'm Shashank Bhange, a Final Year AI & Data Science Engineering student.
+
+This repository contains my daily Python practice and Data Science learning journey.
+
+## Topics Covered
+- Python Basics
+- Object Oriented Programming
+- NumPy
+- Pandas
+- Statistics
+- Data Visualization
+- Machine Learning
+
+## Goal
+Upload one Python file every day and improve coding skills for Data Science and AI.
+
+## Author
+Shashank Bhange
